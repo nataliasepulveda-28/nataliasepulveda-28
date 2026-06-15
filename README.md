@@ -17,7 +17,7 @@ Data Analyst focused on Business Intelligence, with a background in Business Adm
 
 1️⃣ Project 1
 
-*Title:*  Urban Mobility and Economic Productivity in Latin American Cities
+*Title:*  Urban Mobility
 
 *Problem:* Identify which Latin American cities should prioritize investment in transport infrastructure, by crossing traffic congestion data with economic indicators to pinpoint where mobility issues most severely impact productivity.
 
@@ -30,7 +30,7 @@ Data Analyst focused on Business Intelligence, with a background in Business Adm
 
 2️⃣ Project 2
 
-*Title:*  Streaming Pipeline for Real-Time Flight Delay Prediction and Monitoring
+*Title:* Flight Delay Prediction
 
 *Problem:* Process and analyze flight data with missing values and incorrect data types, predict whether a flight will arrive late, and monitor average delay per airport continuously as new data streams in.
 
