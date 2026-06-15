@@ -4,16 +4,22 @@ Data Analyst focused on Business Intelligence, with a background in Business Adm
 
 ## Technical Skills
 
-•	Programming Languages
-    Python, DAX, M/Power Query
-•	Databases
-    SQL (PostgreSQL, MySQL, SQL Server)
-•	Data Visualization
-    Power BI, Matplotlib, Seaborn
-•	Data Analysis
-    Statistical Analysis, A/B Testing, Conversion Funnels, KPIs, Dashboards
-•	Data Engineering & Big Data
-    ETL/ELT, Apache Kafka, Hadoop, PySpark, Jupyter Notebooks
+-  Programming Languages
+    - Python, DAX, M/Power Query
+- Databases
+    - SQL (PostgreSQL, MySQL, SQL Server)
+- Data Visualization
+    - Power BI, Matplotlib, Seaborn
+- Data Analysis
+    - Statistical Analysis, A/B Testing, Conversion Funnels, KPIs, Dashboards
+- Data Engineering & Big Data
+    - ETL/ELT, Apache Kafka, Hadoop, PySpark, Jupyter Notebooks
+
+## Contact
+- Email: nata.sepulveda@gmail.com
+- Phone: +57 3148107315
+- Linkedin: [Natalia Sepulveda](https://www.linkedin.com/in/natalia-sepulveda-escobar/)
+
 
 1️⃣ Project 1
 
