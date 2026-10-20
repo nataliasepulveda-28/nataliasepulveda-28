@@ -1,49 +1,43 @@
-## Intro
+<h1 align="center">Natalia Sepúlveda </h1>
+<h3 align="center">Data Analyst | Business Intelligence</h3>
+<p align="center">📍 Colombia</p>
 
-Data Analyst focused on Business Intelligence, with a background in Business Administration and a Specialization in Visual Analytics and Big Data. Experienced in Power BI, SQL, Python, and ETL pipelines designed to analyze sales, profitability, and customer behavior. I actively integrate Generative AI to automate reporting and accelerate the delivery of actionable insights. My approach combines technical capability with a sharp commercial vision, transforming complex metrics into high-impact business decisions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/natalia-sepulveda-escobar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Nata.sepulveda28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## Technical Skills
+## About me
 
--  Programming Languages
-    - Python, DAX, M/Power Query
-- Databases
-    - SQL (PostgreSQL, MySQL, SQL Server)
-- Data Visualization
-    - Power BI, Matplotlib, Seaborn
-- Data Analysis
-    - Statistical Analysis, A/B Testing, Conversion Funnels, KPIs, Dashboards
-- Data Engineering & Big Data
-    - ETL/ELT, Apache Kafka, Hadoop, PySpark, Jupyter Notebooks
+Data Analyst with a Business Administration background and a Specialization in Visual Analytics and Big Data. I turn transactional data into reliable, automated reports: I build ETL workflows in SQL, Python and Power Query, model data for Power BI dashboards, and analyze sales, profitability, conversion funnels and customer retention, including A/B testing.
+
+I automated a weekly report with Power BI, cutting the time it takes from 3 hours to under 30 minutes, and I'm now bringing generative AI into reporting and product catalog workflows (about 6 operational hours saved per week). My focus: data quality and clear KPIs for fast, confident decisions.
+
+## Tech stack
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+| Area | Tools |
+|---|---|
+| Languages & databases | SQL (PostgreSQL, MySQL, SQL Server), Python, DAX, M / Power Query |
+| Visualization & BI | Power BI, Matplotlib, Seaborn |
+| Data analysis | Relational data modeling, ETL, statistics, A/B testing, KPIs, dashboards |
+| Big Data (academic projects) | PySpark, Apache Kafka, Hadoop |
+
+## Education
+
+- **Specialization in Visual Analytics and Big Data**, UNIR (degree in process, 2026)
+- **Business Administration**, Universidad del Quindío (2023)
+- **Data Analyst Bootcamp**, TripleTen (2026)
 
 ## Contact
-- Email: nata.sepulveda@gmail.com
-- Phone: +57 3148107315
-- Linkedin: [Natalia Sepulveda](https://www.linkedin.com/in/natalia-sepulveda-escobar/)
 
-## Projects
-
-### Project 1
-
-**Title:**  Urban Mobility
-
-**Problem:** Identify which Latin American cities should prioritize investment in transport infrastructure, by crossing traffic congestion data with economic indicators to pinpoint where mobility issues most severely impact productivity.
-
-**What I did:** Cleaned and merged real-world data from TomTom Traffic Index and OECD Cities (2024) using Python and Pandas: standardized column names, fixed data types, aggregated traffic metrics per city, and performed an INNER JOIN between both sources. Built visualizations (boxplot, histogram, bar chart) to analyze the relationship between congestion and GDP per capita.
-
-**Result / Learning:** Found an inverse relationship between congestion and economic development — cities with lower GDP per capita concentrate the worst traffic indexes. Bogotá and Lima emerged as investment priorities due to their combination of high congestion, long travel times, and relatively lower economic capacity.
-
-**Skills:** Python | Pandas | NumPy | Matplotlib | Seaborn.
-
-
-### Project 2
-
-**Title:** Flight Delay Prediction
-
-**Problem:** Process and analyze flight data with missing values and incorrect data types, predict whether a flight will arrive late, and monitor average delay per airport continuously as new data streams in.
-
-**What I did:** Cleaned and transformed a 162,000-flight dataset using PySpark, built a Machine Learning pipeline with a Decision Tree classifier for binary delay classification, and integrated Apache Kafka with Spark Structured Streaming to update aggregations in real time from a JSON message topic.
-
-**Result / Learning:** Implemented an end-to-end workflow spanning from batch data cleaning to streaming event ingestion, reusing the same business logic (retrasoMedio) in both static and real-time modes on distributed infrastructure (HDFS + Kafka + Spark).
-
-**skills:** PySpark, Apache Kafka, Spark MLlib, Spark SQL, HDFS, Python, JupyterLab, Ubuntu Server 22.04.
-
+- 📍 Location: Colombia
+- 📧 Email: [Nata.sepulveda28@gmail.com](mailto:Nata.sepulveda28@gmail.com)
+- 📱 Phone: +57 314 810 7315
+- 💼 LinkedIn: [linkedin.com/in/natalia-sepulveda-escobar](https://www.linkedin.com/in/natalia-sepulveda-escobar)
