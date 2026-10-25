@@ -29,6 +29,18 @@ I automated a weekly report with Power BI, cutting the time it takes from 3 hour
 | Data analysis | Relational data modeling, ETL, statistics, A/B testing, KPIs, dashboards |
 | Big Data (academic projects) | PySpark, Apache Kafka, Hadoop |
 
+## Featured projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| **[RappiPlus: From Data to Business Decisions](https://github.com/nataliasepulveda-28/rappiplus-business-analytics)** | Data quality, profitability, SQL funnel and cohort retention, A/B test and a Power BI dashboard | Python, SQL, Power BI |
+| **[Landing Page A/B Experiment](https://github.com/nataliasepulveda-28/landing-page-ab-test)** | Hypothesis tests on conversion, spend, traffic source and user type | Python, SciPy, statsmodels |
+| **[NovaRetail+ Customer Behavior and Annual Revenue](https://github.com/nataliasepulveda-28/novaretail-customer-behavior)** | Correlation analysis with Pearson, Spearman, point-biserial and Cramér's V | Python, SciPy, seaborn |
+| **[ConnectaTel Customer Behavior Analysis](https://github.com/nataliasepulveda-28/analysis-connectatel)** | Data cleaning, outliers and customer segmentation | Python, pandas |
+| **[Urban Mobility and Economic Productivity in Latin American Cities](https://github.com/nataliasepulveda-28/latam-urban-mobility-economy)** | Traffic congestion vs. GDP per capita across Latin American cities | Python, pandas, seaborn |
+
+➡️ See all projects in my **[portfolio](https://nataliasepulveda-28.github.io/portfolio/)**.
+
 ## Education
 
 - **Specialization in Visual Analytics and Big Data**, UNIR (degree in process, 2026)
